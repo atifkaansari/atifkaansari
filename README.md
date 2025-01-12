@@ -19,7 +19,7 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
   ASP.NET Core ve modern web teknolojileri.
 
 - 🌍 **Kişisel Web Sitem**:  
-  [atifkaansari.com.tr](https://atifkaansari.com.tr)
+  [atifkaansari.com.tr](https://kaansari.com.tr)
 
 ---
 
@@ -32,7 +32,7 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
 2. [**Python Eğitim Projeleri**](https://github.com/atifkaansari/pythonEgitim)  
    Python öğrenim sürecimde geliştirdiğim küçük projeler.
 
-3. [**Portföy ve CV Sayfam**](https://atifkaansari.com.tr)  
+3. [**Portföy ve CV Sayfam**](https://kaansari.com.tr)  
    Kendi becerilerimi ve projelerimi sergilediğim web sitesi.
 ---
 
@@ -45,10 +45,10 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
 
 ## 📫 Bana Ulaşın
 
-- 🌐 **Web Sitem**: [atifkaansari.com.tr](https://atifkaansari.com.tr)  
+- 🌐 **Web Sitem**: [atifkaansari.com.tr](https://kaansari.com.tr)  
 - 💼 **LinkedIn**: [Atıf Kaan Sarı](https://linkedin.com/in/atifkaansari)  
 - 📷 **Instagram**: [atifkaansari](https://www.instagram.com/atifkaansari)  
-- 📧 **E-posta**: info@atifkaansari.com.tr
+- 📧 **E-posta**: info@kaansari.com.tr
 
 ---
 
