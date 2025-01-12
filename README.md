@@ -19,7 +19,7 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
   ASP.NET Core ve modern web teknolojileri.
 
 - 🌍 **Kişisel Web Sitem**:  
-  [atifkaansari.com.tr](https://kaansari.com.tr)
+  [kaansari.com.tr](https://kaansari.com.tr)
 
 ---
 
