@@ -45,7 +45,7 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
 
 ## 📫 Bana Ulaşın
 
-- 🌐 **Web Sitem**: [atifkaansari.com.tr](https://kaansari.com.tr)  
+- 🌐 **Web Sitem**: [kaansari.com.tr](https://kaansari.com.tr)  
 - 💼 **LinkedIn**: [Atıf Kaan Sarı](https://linkedin.com/in/atifkaansari)  
 - 📷 **Instagram**: [atifkaansari](https://www.instagram.com/atifkaansari)  
 - 📧 **E-posta**: info@kaansari.com.tr
