@@ -10,8 +10,8 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
 ## 🌐 Hakkımda
 
 - 🖥️ **Uzmanlık Alanlarım**:  
-  - Backend: PHP, ASP.NET  
-  - Veritabanı Yönetimi: MySQL, MSSQL  
+  - Backend: PHP, ASP.NET, Ruby on Rails  
+  - Veritabanı Yönetimi: MySQL, MSSQL, PostgreSQL 
   - Frontend: HTML, CSS, JavaScript  
   - Araçlar: Visual Studio, Git ve GitHub , PHPStorm
 
