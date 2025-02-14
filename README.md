@@ -34,6 +34,9 @@ Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli 
 
 3. [**Portföy ve CV Sayfam**](https://kaansari.com.tr)  
    Kendi becerilerimi ve projelerimi sergilediğim web sitesi.
+   
+3. [**Akademim.org**](https://akademim.org)  
+   Kendi becerilerimi ve projelerimi sergilediğim web sitesi.
 ---
 
 ## 📊 İstatistiklerim
