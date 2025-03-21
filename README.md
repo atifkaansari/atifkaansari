@@ -1,22 +1,24 @@
 # 👋 Merhaba, Ben Atıf Kaan Sarı!
 
 🎓 **Bilgisayar Programcılığı Öğrencisi**  
-💻 ** FullStack Web Programcısı **  
+💻 ** Junior Developer **  
 
-Kendimi PHP ve ASP.NET teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli projeler üzerinde çalışarak hem teknik becerilerimi hem de problem çözme yeteneklerimi sürekli olarak geliştiriyorum.
+Kendimi Java, Python, C# ve .Net  teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli projeler üzerinde çalışarak hem teknik becerilerimi hem de problem çözme yeteneklerimi sürekli olarak geliştiriyorum.
 
 ---
 
 ## 🌐 Hakkımda
 
 - 🖥️ **Uzmanlık Alanlarım**:  
-  - Backend: PHP, ASP.NET, Ruby on Rails  
+  - Backend: PHP, ASP.NET, Ruby on Rails, Java, C#  
   - Veritabanı Yönetimi: MySQL, MSSQL, PostgreSQL 
-  - Frontend: HTML, CSS, JavaScript  
-  - Araçlar: Visual Studio, Git ve GitHub , PHPStorm
+  - Frontend: HTML, CSS, JavaScript, JavaFX  
+  - Araçlar: Visual Studio, Git ve GitHub, Eclipse, Spyder
 
 - 🌱 **Şu Anda Öğreniyorum**:  
-  ASP.NET Core ve modern web teknolojileri.
+   * Java ile uygulama geliştirme.
+   * ASP.NET ile Web Geliştirme.
+   * Python ile Yapay Zeka ve Makine Öğrenmesi.
 
 - 🌍 **Kişisel Web Sitem**:  
   [kaansari.com.tr](https://kaansari.com.tr)
