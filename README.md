@@ -28,16 +28,19 @@ Kendimi Web Alanında Php, React+vite, .net teknolojilerinde geliştirmeye odakl
 ## 🚀 Projelerim
 
 ### 🌟 **Öne Çıkan Projeler**
-1. [**Kısaltmalar Tablosu (ABB_Project)**](https://github.com/atifkaansari/ABB_Project)  
-   Bilimsel çalışmalarda kullanılan kısaltmaların açıklamalarıyla bir tablo oluşturma uygulaması.
+1. [**React Projeleri**](https://github.com/atifkaansari/reactProjects)  
+   Her Hafta 1 tema diyerek başladığım react kampım
 
-2. [**Python Eğitim Projeleri**](https://github.com/atifkaansari/pythonEgitim)  
-   Python öğrenim sürecimde geliştirdiğim küçük projeler.
-
-3. [**Portföy ve CV Sayfam**](https://kaansari.com.tr)  
+2. [**Portföy ve CV Sayfam**](https://kaansari.com.tr)  
    Kendi becerilerimi ve projelerimi sergilediğim web sitesi.
    
 3. [**Akademim.org**](https://akademim.org)
+   Estetik cerrahi sektörü için geliştirdiğimiz online eğitim sistemi
+   
+4. [**kekres.com.tr**](https://kekres.com.tr)
+   React+vite ile geliştirdiğim kurumsal restoran projesi
+
+   
 ---
 
 ## 📊 İstatistiklerim
