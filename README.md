@@ -1,9 +1,9 @@
 # 👋 Merhaba, Ben Atıf Kaan Sarı!
 
 🎓 **Bilgisayar Programcılığı Öğrencisi**  
-💻 ** Junior Developer **  
+💻 ** Junior Web Developer **  
 
-Kendimi Java, Python, C# ve .Net  teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli projeler üzerinde çalışarak hem teknik becerilerimi hem de problem çözme yeteneklerimi sürekli olarak geliştiriyorum.
+Kendimi Web Alanında Php, React+vite, .net teknolojilerinde geliştirmeye odaklanıyorum. Çeşitli projeler üzerinde çalışarak hem teknik becerilerimi hem de problem çözme yeteneklerimi sürekli olarak geliştiriyorum.
 
 ---
 
