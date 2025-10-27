@@ -27,8 +27,8 @@
 - 🏥 [**Akademim.org**](https://akademim.org)  
   Estetik cerrahlar için e-eğitim sistemi.
 
-- 🍴 [**kekres.com.tr**](https://kekres.com.tr)  
-  React + Vite ile geliştirilen kurumsal restoran sitesi.
+- 🔗 [**https://github.com/atifkaansari/Php-ToDo-List-pomodoro**](https://github.com/atifkaansari/Php-ToDo-List-pomodoro)
+  Modern, minimal tasarımlı todo list ve pomodoro timer entegrasyonlu web uygulaması. PHP, MySQL, JavaScript ve responsive CSS ile geliştirildi.
 
 - 🔗 [**perapet.com.tr**](https://perapet.com.tr)  
   Perapet Şirketi için kurumsal web çözümü
