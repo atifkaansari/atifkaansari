@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Atıf Kaan Sarı
 
-🎓 **Rumeli Üniversitesi - Bilgisayar Programcılığı** öğrencisiyim  
+🎓 **Tekirdağ Namık Kemal Üniversitesi - Bilgisayar Programcılığı** öğrencisiyim  
 💻 **Full Stack Developer** olarak çalışıyor, aynı zamanda kişisel projelerimi geliştiriyorum  
 
 
